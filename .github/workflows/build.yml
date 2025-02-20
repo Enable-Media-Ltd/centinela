@@ -11,7 +11,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: patternseek/centinela
+  IMAGE_NAME: enable-media-ltd/centinela
 
 permissions:
   contents: write
